@@ -1,0 +1,14 @@
+{
+  "name": "Family Recipes & Grocery List",
+  "short_name": "Recipes",
+  "description": "Shared recipes with sub-recipes and a live grocery list for two.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#156534",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
